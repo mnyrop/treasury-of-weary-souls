@@ -1,6 +1,6 @@
 # Treasury of Weary Souls
 
-![App Mock](./app/src/Intro/img/landing-banner.jpg?raw=true)
+![App Mock](https://github.com/Resilient-Labs/treasury-of-weary-souls/blob/master/client/src/Intro/img/landing-banner.jpg?raw=true)
 This project uses React for the frontend, SASS for styling, Node & Express for the backend, D3 for data visualization and Sanity as the Content Management System
 
 ### Getting Started
