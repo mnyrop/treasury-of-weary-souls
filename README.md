@@ -1,5 +1,7 @@
 # Treasury of Weary Souls
 
+[![David (path)](https://img.shields.io/david/mnyrop/treasury-of-weary-souls?path=%2Fclient&style=flat-square)](https://libraries.io/github/mnyrop/treasury-of-weary-souls)
+
 ![App Mock](https://github.com/Resilient-Labs/treasury-of-weary-souls/blob/master/client/src/Intro/img/landing-banner.jpg?raw=true)
 This project uses React for the frontend, SASS for styling, Node & Express for the backend, D3 for data visualization and Sanity as the Content Management System
 
