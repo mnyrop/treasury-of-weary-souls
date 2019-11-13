@@ -18,7 +18,7 @@ npm install && npm start
 
 ### (Open a new terminal tab) To run the frontend
 ``` 
-cd ../treasury-of-weary-souls/client && npm install && npm start
+cd client && npm install && npm start
 ```
 Locate the app running at: http://localhost:3000
 
@@ -29,7 +29,7 @@ npm install -g @sanity/cli
 ```
 To Run the Sanity CMS Studio
 ```
-cd ../treasury-of-weary-souls/cms-dev && sanity start
+cd cms-dev && sanity start
 ```
 Locate the CMS running at: http://localhost:3333/
 
