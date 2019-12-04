@@ -23,6 +23,3 @@ npm install && npm start
 cd client && npm install && npm start
 ```
 Locate the app running at: http://localhost:3000
-
-### Resources:
-http://map.reactd3.org/
