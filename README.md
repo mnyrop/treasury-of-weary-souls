@@ -1,6 +1,6 @@
 # Treasury of Weary Souls
 
-[![David (path)](https://img.shields.io/david/mnyrop/treasury-of-weary-souls?path=%2Fclient&style=flat-square)](https://libraries.io/github/mnyrop/treasury-of-weary-souls) [![Maintainability](https://api.codeclimate.com/v1/badges/219c9aa8937482d00fa0/maintainability)](https://codeclimate.com/github/mnyrop/treasury-of-weary-souls/maintainability)
+[![Dependencies](https://img.shields.io/librariesio/github/nyu-dss/treasury-of-weary-souls?style=flat-square)](https://libraries.io/github/nyu-dss/treasury-of-weary-souls) [![Maintainability](https://api.codeclimate.com/v1/badges/219c9aa8937482d00fa0/maintainability)](https://codeclimate.com/github/mnyrop/treasury-of-weary-souls/maintainability)
 
 ![App Mock](https://github.com/Resilient-Labs/treasury-of-weary-souls/blob/master/client/src/Intro/img/landing-banner.jpg?raw=true)
 This project uses React for the frontend, SASS for styling, Node & Express for the backend, D3 for data visualization and Sanity as the Content Management System
@@ -12,18 +12,18 @@ cd treasury-of-weary-souls
 ```
 
 ### To access the data and run the server
-``` 
+```
 npm install && npm start
 ```
 
 ### (Open a new terminal tab) To run the frontend
-``` 
+```
 cd client && npm install && npm start
 ```
 Locate the app running at: http://localhost:3000
 
 ### To access the CMS locally and run the Sanity Studio
-Make sure you have the Sanity CLI installed on your device, if not installed already run: 
+Make sure you have the Sanity CLI installed on your device, if not installed already run:
 ```
 npm install -g @sanity/cli
 ```
@@ -39,7 +39,7 @@ Note: you must allow cookies in your browser in order for you to access the CMS 
 1) Switch to a branch for the issue you are working on
 2) Open in your preferred text editor
 3) Make edits and push to the new branch
-4) Create a PR to have code reviewed 
+4) Create a PR to have code reviewed
 
 ### Working with the CMS (Sanity)
 Documentation and useful information TBD
