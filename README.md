@@ -1,6 +1,8 @@
 # Treasury of Weary Souls
 
-[![Dependencies](https://img.shields.io/librariesio/github/nyu-dss/treasury-of-weary-souls?style=flat-square)](https://libraries.io/github/nyu-dss/treasury-of-weary-souls) [![Maintainability](https://api.codeclimate.com/v1/badges/219c9aa8937482d00fa0/maintainability)](https://codeclimate.com/github/mnyrop/treasury-of-weary-souls/maintainability)
+[![Dependencies](https://img.shields.io/librariesio/github/nyu-dss/treasury-of-weary-souls?style=flat-square)](https://libraries.io/github/nyu-dss/treasury-of-weary-souls) 
+
+![Code Climate technical debt](https://img.shields.io/codeclimate/tech-debt/mnyrop/treasury-of-weary-souls?style=flat-square) [![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/mnyrop/treasury-of-weary-souls?style=flat-square)](https://codeclimate.com/github/mnyrop/treasury-of-weary-souls/maintainability) ![GitHub language count](https://img.shields.io/github/languages/count/nyu-dss/treasury-of-weary-souls?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/nyu-dss/treasury-of-weary-souls?style=flat-square)
 
 ![App Mock](https://github.com/Resilient-Labs/treasury-of-weary-souls/blob/master/client/src/Intro/img/landing-banner.jpg?raw=true)
 This project uses React for the frontend, SASS for styling, Node & Express for the backend, D3 for data visualization and Sanity as the Content Management System
